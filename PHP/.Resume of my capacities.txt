@@ -1,0 +1,21 @@
+I've done some research out of school time to learn some more about Php.
+I know a lot of additional thing that are used with the OOP 
+(reflexivity,traits, how to surcharge a magic constructor, how to use 
+wisely the concept of heritage, take care of the scope).
+
+Grade scale from o to ++++
+
+What i'm good at : 
+- Algorithm ++++
+- Using the different data structures ++++
+- Programming the object-oriented way ++++
+- Programming the Imperative way("scripting") ++++
+
+What i need to improve :
+- how to use wisely the .htaccess file o
+- Learn how to use a framework (Symfony) o
+
+
+How did I learn ?
+*First by my own using some Mooc, the documentation and playing on CodingGames.com .
+*Finally at school as i've followed the Web technologies class.

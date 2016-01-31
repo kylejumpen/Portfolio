@@ -1,0 +1,20 @@
+I'm used to work with Eclipse and the J2ee plugin. I'm gonna try to use IntellijI EDI as it integrates natively the use of many framework natively.
+
+Grade scale from o to ++++
+
+What i'm good at : 
+- Algorithm ++++
+- Using the different data structures( Array,Set,List,Map) ++++
+- Programming the object-oriented way ++++
+- JSP for the views ++++
+- Storage in a database ++++
+
+What i need to improve :
+- Using filters +
+- Learn at least one framework (JSF,Spring,Struts,Hibernate) o
+-  Using the Java Persistence API (JPA) o
+
+
+How did I learn ?
+*By my own using some Mooc at first.
+*At school finally as I've followed the Web technologies class [No pun in there ^^].

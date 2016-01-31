@@ -1,0 +1,21 @@
+I'm used to work with Android Studio and not Eclipse.
+Android Studio makes it easier to test and to sort 
+the different files where they need to be.
+
+I'm working a project by my own that i keep in another file.
+You can check this at http://kylejumpen.github.io/Spark .
+
+Grade scale from o to ++++
+
+What i'm good at : 
+- Algorithm ++++
+- Using the different data structures( Array,Set,List,Map) ++++
+- Handling the R class (because that's the real deal) +++
+
+What i need to improve :
+- Make menus ++
+- Use transition +
+- Learn to program with a cross-platfrom IDE (Xamarin or IONIC) o
+
+How did I learn ?
+* On my own using some Moocs and reading a Book ( "Créer une application Android" from Fréderic ESPIAU).

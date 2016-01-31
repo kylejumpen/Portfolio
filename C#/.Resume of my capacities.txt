@@ -1,0 +1,14 @@
+Grade scale from o to ++++
+
+What i'm good at : 
+- Algorithm ++++
+- Using the different data structures( Queue, Stack, Array,..) ++++
+- Programming the object-oriented way ++++
+- Programming the Imperative way +++
+
+What i need to improve :
+- Using LINQ o
+
+
+How did I learn ?
+*By my own using some Mooc, the documentation and playing on CodingGames.com .
