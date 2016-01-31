@@ -3,7 +3,7 @@ Android Studio makes it easier to test and to sort
 the different files where they need to be.
 
 I'm working a project by my own that i keep in another file.
-You can check this at http://kylejumpen.github.io/Spark .
+You can check this at http://kylejumpen.github.io/Spark or you can ask me some details about it .
 
 Grade scale from o to ++++
 
