@@ -13,7 +13,7 @@ What i'm good at :
 
 What i need to improve :
 - how to use wisely the .htaccess file o
-- Learn how to use a framework (Symfony) o
+- Learn how to use a framework (Symfony) o [currently doing it]
 
 
 How did I learn ?
