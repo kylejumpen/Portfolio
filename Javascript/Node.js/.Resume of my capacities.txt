@@ -1,0 +1,17 @@
+--Currently learning Node.js--
+
+Grade scale from o to ++++
+
+What i'm good at : 
+- Using socket.io library +++
+- Using npm +++
+
+
+What i need to improve :
+Using Express framework ++
+
+What i need to learn :
+Choose a system of templates (Twig,EJS or Jade) +
+
+How did I learn ?
+*By my own using some Mooc, the documentation and reading a book "Des applications ultra-rapides avec Node.js" From Mathieu NEBRA.

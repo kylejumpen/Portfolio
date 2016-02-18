@@ -1,3 +1,5 @@
+--Currently learning how to use Symfony--
+
 I've done some research out of school time to learn some more about Php.
 I know a lot of additional thing that are used with the OOP 
 (reflexivity,traits, how to surcharge a magic constructor, how to use 
