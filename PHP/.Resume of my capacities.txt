@@ -12,11 +12,10 @@ What i'm good at :
 - Using the different data structures ++++
 - Programming the object-oriented way ++++
 - Programming the Imperative way("scripting") ++++
+- Using Symfony(#Twig, #doctrine) +++
 
 What i need to improve :
 - how to use wisely the .htaccess file o
-- Learn how to use a framework (Symfony) o [currently doing it]
-
 
 How did I learn ?
 *First by my own using some Mooc, the documentation and playing on CodingGames.com .
