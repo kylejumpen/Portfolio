@@ -5,6 +5,11 @@ I know a lot of additional thing that are used with the OOP
 (reflexivity,traits, how to surcharge a magic constructor, how to use 
 wisely the concept of heritage, take care of the scope).
 
+Note : Starting from 01/18/2016 I will be working part-time in an academical project
+involving Symfony for two semesters .
+As there is a confidentiality clause signed over this project i 
+can't say much there so reach me out directly to get some information.
+
 Grade scale from o to ++++
 
 What i'm good at : 
