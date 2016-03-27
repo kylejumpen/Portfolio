@@ -1,4 +1,4 @@
---Currently learning how to use Symfony--
+--Currently learning how to use Symfony (85% done)--
 
 I've done some research out of school time to learn some more about Php.
 I know a lot of additional thing that are used with the OOP 
@@ -8,7 +8,7 @@ wisely the concept of heritage, take care of the scope).
 Note : Starting from 01/18/2016 I will be working part-time in an academical project
 involving Symfony for two semesters .
 As there is a confidentiality clause signed over this project i 
-can't say much there so reach me out directly to get some information.
+can't say much there so reach out to me directly to get some information.
 
 Grade scale from o to ++++
 
