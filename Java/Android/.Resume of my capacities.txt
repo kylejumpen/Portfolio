@@ -1,9 +1,7 @@
-I'm used to work with Android Studio and not Eclipse.
+I'm used to work with Android Studio.
 Android Studio makes it easier to test and to sort 
 the different files where they need to be.
-
-I'm working on a project by my own that i keep in another file.
-You can check this at http://kylejumpen.github.io/Spark or you can ask me some details about it .
+I followed a MooC on Openclassroom.
 
 Grade scale from o to ++++
 
@@ -13,9 +11,10 @@ What i'm good at :
 - Handling the R class (because that's the real deal) +++
 
 What i need to improve :
-- Make menus ++
-- Use transition +
+- Material Design o
 - Learn to program with a cross-platfrom IDE (Xamarin or IONIC) o
 
 How did I learn ?
 * On my own using some Moocs and reading a Book ( "Créer une application Android" from Fréderic ESPIAU).
+
+**Last Updated : 12/10/2017**

@@ -1,4 +1,0 @@
-Java is special to me, it's the one with i've learnt the Oriented-Object Programmation thanks to Professor Lapalme( http://rali.iro.umontreal.ca/lapalme/ ).
-This is the language i'm the most efficent with. 
-Basically when i receive and algorithmic problem, i write the pseudocode for it then i translate it in Java and finally i translate it in the language needed.
-
